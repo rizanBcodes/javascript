@@ -1,2 +1,2 @@
 # react
-Source code for my Youtube playlist on React library
+Source code for my Youtube playlist on ReactJS library
